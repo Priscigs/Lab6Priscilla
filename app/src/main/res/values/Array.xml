@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Opciones">
+        <item name="Org">Organizador</item>
+        <item name="Fot">Fotógrafo</item>
+        <item name="Par">Participante</item>
+    </string-array>
+</resources>

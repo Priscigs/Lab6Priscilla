@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Zvent3</string>
+    <string name="start_button">Iniciar</string>
+    <string name="register_text">Registro</string>
+    <string name="guest_text">Invitados: %1$d</string>
+    <string name="register_text2">Registrados: %1$d</string>
+    <string name="restart_button">Reiniciar</string>
+    <string name="seeguest_button">Ver Invitados</string>
+    <string name="infoZvent_text">Zvent Organizing App</string>
+    <string name="email_text">support@zvent.com</string>
+    <string name="start_text">Inicio</string>
+    <string name="rol_text">Roles</string>
+    <string name="about_text">Acerca</string>
+    <string name="title_zvent3_guest">Invitado (%1$d/%2$d)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info_text">Esta aplicación fue creada con el motivo de poder registrar a varias personas     \npara obtener sus datos, asimismo, la confirmación de que la persona estará en el evento</string>
+    <string name="guestt_text">Invitados</string>
+    <string name="rolSelect_text">Seleccione el rol</string>
+    <string name="orden_text">Seleccione el orden</string>
+</resources>
